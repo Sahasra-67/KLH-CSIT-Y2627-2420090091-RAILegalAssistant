@@ -17,4 +17,4 @@ citation/faithfulness verification.
 
 Execution: ingest → preprocess → index → hybrid retrieve → rerank → generate grounded answer → verify citations/confidence.
 
-Phase: Development - 30% complete
+Phase: Development - 70% complete
